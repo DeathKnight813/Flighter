@@ -1,0 +1,81 @@
+input {
+  padding: 5px;
+  font-size: 12px;
+}
+li {
+  list-style: none;
+}
+
+.dn {
+  display: none;
+}
+
+.error {
+  color: red;
+}
+
+.marginT10 {
+  margin-top: 10px;
+}
+
+.fs20 {
+  font-size: 20px;
+  font-weight: bold;
+}
+.fb {
+  font-weight: bold;
+}
+input:focus {
+  outline: none !important;
+}
+.d-inbl {
+  display: inline-block;
+}
+.textCenter {
+  text-align: center;
+}
+.margin20 {
+  margin: 20px;
+}
+.padT5 {
+  padding-top: 5px;
+}
+.padL10 {
+  padding-left: 10px;
+}
+.marginT5 {
+  margin-top: 5px;
+}
+.marginT30 {
+  margin-top: 30px;
+}
+.filters {
+  width: 16%;
+  position: fixed;
+  height: 75vh;
+  background: cadetblue;
+  padding: 10px;
+  border-radius: 5px;
+}
+.flights {
+  width: 75%;
+  margin-left: 21%;
+}
+.sort {
+  display: flex;
+  justify-content: space-around;
+}
+.card {
+  width: 100%;
+  box-shadow: 0 2px 4px 0 #777;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 15px;
+  background: antiquewhite;
+}
+
+#sorter {
+  background: burlywood;
+  padding: 5px 0px;
+  border-radius: 5px;
+}
